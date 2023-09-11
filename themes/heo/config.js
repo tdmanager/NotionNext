@@ -10,11 +10,11 @@ const CONFIG = {
   ],
 
   // 英雄区(首页顶部大卡)
-  HERO_TITLE_1: '分享编程',
-  HERO_TITLE_2: '与思维认知',
-  HERO_TITLE_3: 'TANGLY1024.COM',
+  HERO_TITLE_1: '分享网赚知识',
+  HERO_TITLE_2: '避免网赚踩坑',
+  HERO_TITLE_3: 'zdbar.COM',
   HERO_TITLE_4: '新版上线',
-  HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
+  HERO_TITLE_5: '欢迎加入猫姐和向总的星球',
   HERO_TITLE_LINK: 'https://tangly1024.com',
 
   // 英雄区显示三个置顶分类
