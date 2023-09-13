@@ -6,7 +6,7 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   NOTICE_BAR: [
     { title: '欢迎来到我的博客', url: 'https://zdbar.com' },
-    { title: '猫姐与向总的知识星球', url: 'https://docs.tangly1024.com' }
+    { title: '猫姐与向总的知识星球', url: 'https://www.zdbar.com/article/71581885-543e-49a2-9d00-d4885329f059.html' }
   ],
 
   // 英雄区(首页顶部大卡)
