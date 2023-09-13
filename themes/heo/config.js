@@ -15,7 +15,7 @@ const CONFIG = {
   HERO_TITLE_3: 'zdbar.COM',
   HERO_TITLE_4: '新版上线',
   HERO_TITLE_5: '欢迎加入猫姐和向总的星球',
-  HERO_TITLE_LINK: 'https://tangly1024.com',
+  HERO_TITLE_LINK: 'https://www.zdbar.com/article/71581885-543e-49a2-9d00-d4885329f059.html',
 
   // 英雄区显示三个置顶分类
   HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
